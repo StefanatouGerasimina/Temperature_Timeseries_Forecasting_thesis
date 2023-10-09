@@ -1,0 +1,10 @@
+timebased,metric,quantization_error,silhouette_score,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6
+daily,euclidean,12274255.2,0.106382435,halkidiki,arkadia mati,corinthos keratea kineta rethymno varibobi,larissa trikala,messinia,
+daily,dtw,12339373.93,0.095605389,rethymno,corinthos halkidiki keratea kineta varibobi,arkadia mati,larissa trikala,messinia,
+daily,softdtw,11647644.56,0.036238208,corinthos keratea kineta,arkadia larissa mati,messinia,trikala,halkidiki rethymno varibobi,
+monthly,euclidean,12290925.49,0.111524875,larissa trikala,corinthos keratea kineta varibobi,arkadia mati ,messinia,halkidiki,rethymno
+monthly,dtw,12382071.09,0.085546836,arkadia corinthos mati,keratea kineta varibobi,halkidiki,larissa trikala,messinia,rethymno
+monthly,softdtw,11649477.22,-0.026846056,varibobi,mati,rethymno,arkadia larissa ,messinia,corinthos halkidiki keratea kineta trikala
+yearly,euclidean,202.1814343,0.349635794,mati,keratea messinia rethymno,arkadia halkidiki kineta larissa trikala varibobi,,,
+yearly,dtw,202.3327945,0.383405349,keratea mati messinia,arkadia corinthos halkidiki kineta larissa varibobi,rethymno,,,
+yearly,softdtw,144.1405899,0.262173194,keratea messinia,arkadia corinthos halkidiki kineta larissa trikala varibobi,mati rethymno,,,

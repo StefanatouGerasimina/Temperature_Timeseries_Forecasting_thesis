@@ -1,0 +1,16 @@
+﻿top,quantization_error,distance,epochs,timebased
+1,0.8824,euclidean ,200,daily
+2,0.9159,euclidean ,100,daily
+3,0.9273,cosine,100,daily
+4,0.9287,cosine,200,daily
+5,1.0289,cosine,50,daily
+1,0.8361,manhattan,200,monthly
+2,0.8495,euclidean ,200,monthly
+3,0.9017,cosine,10,monthly
+4,0.9453,euclidean ,50,monthly
+5,1.0351,cosine,100,monthly
+1,0.0351,manhattan,50,yearly
+2,0.0355,cosine,200,yearly
+3,0.0358,euclidean ,10,yearly
+4,0.0372,manhattan,200,yearly
+5,0.037554359,cosine,50,yearly

@@ -1,0 +1,3 @@
+﻿metric,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6
+euclidean,arkadia corinthos halkidiki kineta    larissa   trikala   varibobi ,mati,keratea messinia,rethymno,,
+dtw,arkadia corinthos halkidiki kineta larissa trikala varibobi ,keratea rethymno,mati messinia,,,

@@ -1,0 +1,16 @@
+﻿distance,epochs,silhouette_score,quantization_error,timebased
+manhattan,10,0.1144,1.185683766,daily
+manhattan,100,0.0682,1.1478,daily
+cosine,200,0.0654,0.928652072,daily
+euclidean,10,0.0654,1.132157662,daily
+euclidean,50,0.0412,1.194437796,daily
+manhattan,50,0.098173884,1.339333248,monthly
+euclidean,100,0.0769434,1.206660664,monthly
+euclidean,10,0.068090973,1.383957429,monthly
+manhattan,200,0.064149335,0.83608479,monthly
+cosine,20,0.059414598,1.169281135,monthly
+cosine,10,0.390953755,0.039297334,yearly
+euclidean,100,0.273240634,0.041984707,yearly
+cosine,50,0.258161766,0.037554359,yearly
+euclidean,100,0.244734135,0.046362253,yearly
+cosine,200,0.023381009,0.035533904,yearly

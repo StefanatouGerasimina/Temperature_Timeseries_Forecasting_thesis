@@ -1,0 +1,13 @@
+shape_method,epochs,quantization_error,silhouete_score,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6
+cosine,10,0.901704517,-0.041804624,messinia,arkadia corinthos kineta,keratea varibobi,rethymno,halkidiki,larissa mati  trikala
+cosine,50,1.169281135,0.059414598,larissa,halkidiki,arkadia corinthos keratea kineta rethymno varibobi,trikala,mati messinia,
+cosine,100,1.035056182,0.031765611,kineta,rethimno,arkadia mati messinia,keratea varibobi,halkidiki larissa trikala,corinthos
+cosine,200,1.124760232,-0.028022569,mati messinia,larissa,corinthos,halkidiki keratea kineta rethymno varibobi,trikala,arkadia
+euclidean,10,1.383957429,0.068090973,corinthos kineta larissa varibobi,messinia,halkidiki keratea rethymno,arkadia mati ,trikala,
+euclidean,50,0.945347894,-0.006916977,rethymno,keratea kineta,halkidiki varibobi,arkadia larissa mati,corinthos trikala,messinia
+euclidean,100,1.206660664,0.0769434,rethymno,corinthos halkidiki keratea kineta larissa trikala varibobi,arkadia mati,messinia,,
+euclidean,200,0.84949511,0.027865458,varibobi,halkidiki,rethymno,arkasia corinthos keratea kineta,mati messinia,larissa trikala
+manhattan,10,1.139657161,0.04807426,halkidiki,mati,keratea kineta,messinia,arkadia corinthos larissa trikala,rethymno varibobi
+manhattan,50,1.339333248,0.098173884,halkidiki,larissa trikala,mati messinia,corinthos keratea kineta rethymno varibobi,arkadia,
+manhattan,100,1.063213915,0.025027657,corinthos keratea kineta larissa ,rethymno varibobi,arkadia mati,halkidiki,messinia,
+manhattan,200,0.83608479,0.064149335,arkadia larissa,halkidiki trikala,mati,messinia,corinthos keratea kineta varibobi,rethymno
